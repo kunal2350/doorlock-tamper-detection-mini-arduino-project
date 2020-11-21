@@ -1,0 +1,2 @@
+# doorlock-tamper-detection-mini-arduino-project
+We have constructed a prototype of an anti-tamper doorknob system. The main agenda of the project is to alert the owner about the tampering of the doorknob. The system utilizes an ultrasonic sensor to detect an “intruder”, who messes with the doorknob without the permission of the owner. The sensor is connected to an Arduino, which identifies the tampering. An LED and a buzzer are used to alert the owner.
